@@ -3,7 +3,7 @@
 <b><i>💻 I'm a Student & A part time Programmer</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
-<li><b>PK</b>  <i>Resident of pakistan</i></li>
+<li><b><abbr title="pakistan">PK</abbr></b>  <i>Resident of pakistan</i></li>
 <li> 😇 <i>Muslim</i></li>
 <li> 😐 <i>Studying at islamia university bwp</i></li>
 <li> 😪 <i>Love Sleeping</i></li>
